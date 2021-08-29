@@ -342,7 +342,7 @@ section {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(1, 22, 61, 0.9);
+  background: rgba(175, 17, 17, 0.9);
   transition: 0.3s;
 }
 
@@ -443,7 +443,7 @@ section {
   transition: 0.5s;
   color: #fff;
   background: #f57171;
-  box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
+  box-shadow: 0px 5px 30px rgba(241, 65, 65, 0.4);
 }
 
 .hero .btn-get-started span {
@@ -538,7 +538,7 @@ section {
   transition: 0.5s;
   color: #fff;
   background: #f57171;
-  box-shadow: 0px 5px 25px rgba(65, 84, 241, 0.3);
+  box-shadow: 0px 5px 25px rgba(241, 65, 65, 0.3);
 }
 
 .about .btn-read-more span {
@@ -563,7 +563,7 @@ section {
 --------------------------------------------------------------*/
 .values .box {
   padding: 30px;
-  box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 5px rgba(241, 65, 65, 0.3);
   text-align: center;
   transition: 0.3s;
   height: 100%;
@@ -583,7 +583,7 @@ section {
 }
 
 .values .box:hover {
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
 }
 
 .values .box:hover img {
@@ -603,7 +603,7 @@ section {
   padding: 30px;
   width: 100%;
   background: #fff;
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
 }
 
 .counts .count-box i {
@@ -632,7 +632,7 @@ section {
 --------------------------------------------------------------*/
 .features .feature-box {
   padding: 24px 20px;
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
   transition: 0.3s;
   height: 100%;
 }
@@ -756,7 +756,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .service-box {
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
   height: 100%;
   padding: 60px 30px;
   text-align: center;
@@ -912,7 +912,7 @@ section {
   padding: 40px 20px;
   background: #fff;
   text-align: center;
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
   border-radius: 4px;
   position: relative;
   overflow: hidden;
@@ -921,7 +921,7 @@ section {
 
 .pricing .box:hover {
   transform: scale(1.1);
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+  box-shadow: 0px 0 30px rgba(112, 1, 1, 0.1);
 }
 
 .pricing h3 {
@@ -1120,8 +1120,8 @@ section {
   position: absolute;
   top: 35px;
   left: 35px;
-  border-top: 3px solid rgba(1, 41, 112, 0.2);
-  border-left: 3px solid rgba(1, 41, 112, 0.2);
+  border-top: 3px solid rgba(112, 1, 1, 0.2);
+  border-left: 3px solid rgba(112, 1, 1, 0.2);
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
@@ -1134,8 +1134,8 @@ section {
   position: absolute;
   bottom: 35px;
   right: 35px;
-  border-bottom: 3px solid rgba(1, 41, 112, 0.2);
-  border-right: 3px solid rgba(1, 41, 112, 0.2);
+  border-bottom: 3px solid rgba(112, 1, 1, 0.2);
+  border-right: 3px solid rgba(112, 1, 1, 0.2);
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
@@ -1238,7 +1238,7 @@ section {
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -1280,7 +1280,7 @@ section {
   box-sizing: content-box;
   padding: 30px;
   margin: 40px 30px;
-  box-shadow: 0px 0 20px rgba(1, 41, 112, 0.1);
+  box-shadow: 0px 0 20px rgba(112, 1, 1, 0.1);
   background: #fff;
   min-height: 320px;
   display: flex;
@@ -1373,7 +1373,7 @@ section {
   text-align: center;
   border-radius: 5px;
   background: #fff;
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
   transition: 0.3s;
 }
 
@@ -1415,7 +1415,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: rgba(1, 41, 112, 0.8);
+  color: rgba(112, 1, 1, 0.8);
 }
 
 .team .member .social i {
@@ -1450,7 +1450,7 @@ section {
 
 .team .member:hover {
   transform: scale(1.08);
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.1);
+  box-shadow: 0px 0 30px rgba(112, 1, 1, 0.1);
 }
 
 .team .member:hover .social {
@@ -1491,7 +1491,7 @@ section {
 # Recent Blog Posts
 --------------------------------------------------------------*/
 .recent-blog-posts .post-box {
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+  box-shadow: 0px 0 30px rgba(241, 65, 65, 0.3);
   transition: 0.3s;
   height: 100%;
   overflow: hidden;
@@ -1515,7 +1515,7 @@ section {
 .recent-blog-posts .post-box .post-date {
   font-size: 16px;
   font-weight: 600;
-  color: rgba(1, 41, 112, 0.6);
+  color: rgba(112, 1, 1, 0.6);
   display: block;
   margin-bottom: 10px;
 }
@@ -1714,7 +1714,7 @@ section {
 
 .blog .entry .entry-meta {
   margin-bottom: 15px;
-  color: #4084fd;
+  color: #fd4040;
 }
 
 .blog .entry .entry-meta ul {
@@ -1885,7 +1885,7 @@ section {
 }
 
 .blog .blog-author .social-links a {
-  color: rgba(1, 41, 112, 0.5);
+  color: rgba(112, 1, 1, 0.5);
   margin-right: 5px;
 }
 
